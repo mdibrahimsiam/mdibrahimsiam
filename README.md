@@ -29,17 +29,20 @@
 
 > *"The only way to do great work is to love what you do."* – Steve Jobs
 
-I'm a passionate **[Your Role]** with a knack for turning ideas into elegant, efficient solutions. With **X+ years** of experience in the tech industry, I specialize in **[Your Specialties]**.
+I'm a passionate Backend Developer with a knack for turning ideas into elegant, efficient solutions. With 5 years of experience in the tech industry, I specialize in building scalable backend systems using Python, with a focus on ERP and payment solutions.
 
-<details>
-<summary>📌 <b>Click to learn more about me</b></summary>
+<details> <summary>📌 <b>Click to learn more about me</b></summary>
+🔭 I'm currently working on an ERP system for Desi Payments, focusing on streamlining business operations and payment workflows.
 
-- 🔭 I'm currently working on **[Current Project]** 
-- 🌱 I'm constantly learning **[What You're Learning]**
-- 👯 I'm looking to collaborate on **[Types of Projects]**
-- 🎯 2025 Goals: **[Your Professional Goals]**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+🌱 I'm constantly learning modern backend technologies, software architecture patterns, and DevOps practices to stay up-to-date with industry trends.
+
+👯 I'm looking to collaborate on payment systems, ERP platforms, and CRM tools that solve real-world problems.
+
+🎯 2025 Goals: Build a complete ERP system from scratch, contribute to open-source backend tools, and master cloud deployment (AWS, Docker, CI/CD).
+
+💬 Ask me about Python, Django, FastAPI, database design, and building secure, reliable backend systems.
+
+⚡ Fun fact: I'm a self-driven student who didn’t follow the traditional path—currently studying Computer Science with a love for learning by doing.
 
 </details>
 
