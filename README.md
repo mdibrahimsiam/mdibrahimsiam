@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/yourname">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/mdibrahimsiam">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://yourwebsite.com">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdibrahimsiam&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   
 </div>
 
@@ -96,41 +96,41 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
 ## 📊 Github Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
+  <a href="https://github.com/mdibrahimsiam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdibrahimsiam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahimsiam&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdibrahimsiam&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mdibrahimsiam&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 💻 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/mdibrahimsiam/">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/mdibrahimsiam/project2">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/mdibrahimsiam/project3">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project3&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project4">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/mdibrahimsiam/project4">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project4&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
 </div>
 
 <details>
   <summary>📌 <b>Project Showcase: [Flagship Project Name]</b></summary>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/project-screenshot.png" alt="Project Screenshot" width="700px"/>
+    <img src="https://raw.githubusercontent.com/mdibrahimsiam/yourrepo/main/project-screenshot.png" alt="Project Screenshot" width="700px"/>
     
     <h3>Tech Stack</h3>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -151,7 +151,7 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
     <a href="https://live-demo-link.com">
       <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
     </a>
-    <a href="https://github.com/yourusername/project-repo">
+    <a href="https://github.com/mdibrahimsiam/project-repo">
       <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
     </a>
   </div>
@@ -200,7 +200,7 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
 ## 📊 Weekly Development Breakdown
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&bg_color=0D1117&hide_border=true" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdibrahimsiam&theme=radical&bg_color=0D1117&hide_border=true" alt="Wakatime Stats"/>
 </div>
 
 <div align="center">
@@ -223,23 +223,23 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
   <a href="https://linkedin.com/in/yourname">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/mdibrahimsiam">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/mdibrahimsiam">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81e0a6f5da73.png"/>
   </a>
-  <a href="https://medium.com/@yourusername">
+  <a href="https://medium.com/@mdibrahimsiam">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
   </a>
-  <a href="https://dev.to/yourusername">
+  <a href="https://dev.to/mdibrahimsiam">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a>
 </div>
 
 <div align="center">
   <h3>🎯 Support Me</h3>
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://www.buymeacoffee.com/mdibrahimsiam">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
   </a>
 </div>
@@ -247,7 +247,7 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mdibrahimsiam&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
 
 <!--
@@ -268,7 +268,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: yourusername
+          github_user_name: mdibrahimsiam
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
