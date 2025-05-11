@@ -165,14 +165,14 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
       <h3>Experience</h3>
       <table>
         <tr>
-          <td><b>🏢 [Company Name]</b></td>
-          <td>[Your Role]</td>
-          <td>[Period]</td>
+          <td><b>🏢 Desipayments</b></td>
+          <td>Backend Developer</td>
+          <td>continue</td>
         </tr>
         <tr>
-          <td><b>🏢 [Previous Company]</b></td>
-          <td>[Your Role]</td>
-          <td>[Period]</td>
+          <td><b>🏢 Openbrabo</b></td>
+          <td>Asst. Developer</td>
+          <td>2022 to 2024</td>
         </tr>
       </table>
     </div>
@@ -180,22 +180,15 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
       <h3>Education</h3>
       <table>
         <tr>
-          <td><b>🎓 [University]</b></td>
-          <td>[Degree]</td>
-          <td>[Period]</td>
+          <td><b>🎓SIMT</b></td>
+          <td>CSE</td>
+          <td>2023 to continue</td>
         </tr>
       </table>
     </div>
   </div>
 </div>
 
-## 📌 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📊 Weekly Development Breakdown
 
