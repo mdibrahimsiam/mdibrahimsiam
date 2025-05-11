@@ -107,7 +107,7 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdibrahimsiam&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdibrahimsiam&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 💻 Featured Projects
