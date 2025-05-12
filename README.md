@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Cloud+Architecture+Expert;Open+Source+Contributor)](https://git.io/typing-svg)
 
-  <a href="https://linkedin.com/in/s-m-ibrahim">
+  <a href="https://linkedin.com/in/mdibrahimsiam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/mdibrahimsiam">
@@ -13,7 +13,7 @@
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:smibrahim2098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
