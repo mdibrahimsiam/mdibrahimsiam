@@ -116,15 +116,15 @@ I'm a passionate Backend Developer with a knack for turning ideas into elegant, 
   <a href="https://github.com/mdibrahimsiam/">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/mdibrahimsiam/project2">
+  <a href="https://github.com/mdibrahimsiam/tracedesk">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/mdibrahimsiam/project3">
+  <a href="https://github.com/mdibrahimsiam/Chronos-Work">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project3&theme=radical&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="https://github.com/mdibrahimsiam/project4">
+  <!-- <a href="https://github.com/mdibrahimsiam/project4">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mdibrahimsiam&repo=project4&theme=radical&bg_color=0D1117&hide_border=true" />
-  </a>
+  </a> -->
 </div>
 
 <details>
